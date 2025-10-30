@@ -98,7 +98,7 @@ a {
     color: #fff;
 }
 
-.principles-title {
+.principles-text {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -106,7 +106,7 @@ a {
     color: #2E2F42;
 }
 
-.principles-text {
+.principles-title {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -158,7 +158,7 @@ a {
 
 .portfolio-text {
     font-weight: 500;
-    font-size: 20px;
+    font-size: 24px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
