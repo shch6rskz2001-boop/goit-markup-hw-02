@@ -92,8 +92,7 @@ a {
     cursor: pointer
 }
 
-.order:hover,
-.order:focus {
+.order:hover .order:focus {
     background-color: #404bbf;
 }
 
