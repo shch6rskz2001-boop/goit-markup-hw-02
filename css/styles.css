@@ -95,6 +95,7 @@ a {
 .orders:hover,
 .orders:focus {
     background-color: #404bbf;
+    color: #fff;
 }
 
 .principles-title {
