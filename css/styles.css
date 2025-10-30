@@ -3,8 +3,9 @@ sanfont-family: "Raleway", sans-serif; */
 
 
 .body {
-    font-family: "Roboto", s-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
+    background-color: #fff;
 }
 
 ul,
