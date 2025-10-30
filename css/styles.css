@@ -2,7 +2,7 @@
 sanfont-family: "Raleway", sans-serif; */
 
 
-.body {
+body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #fff;
@@ -53,6 +53,11 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455
+}
+
+.contacts-link :hover,
+.contacts-link:focus {
+    font-weight: normal;
 }
 
 .nav-link:hover,
