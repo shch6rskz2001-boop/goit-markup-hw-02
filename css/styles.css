@@ -47,6 +47,7 @@ a {
 
 .contacts {
     font-style: normal;
+
 }
 
 .contacts-link {
@@ -57,7 +58,8 @@ a {
 }
 
 .nav-link:hover,
-.nav-link:focus .contacts-link:hover,
+.nav-link:focus,
+.contacts-link:hover,
 .contacts-link:focus {
     color: #404bbf;
 }
